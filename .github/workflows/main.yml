@@ -1,4 +1,15 @@
-steps:
-- name: ChatGPT & Codex Plugin Autopilot
-  uses: imMamdouhaboammar/chatgpt-codex-plugin-autopilot@v0.8.0
-  
+name: Hermes Creator Forge
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Verify repository
+        run: echo "Hermes Creator Forge workflow started"
