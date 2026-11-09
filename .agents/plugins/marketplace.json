@@ -1,0 +1,20 @@
+{
+  "name": "hermes-creator-forge-local",
+  "interface": {
+    "displayName": "Hermes Creator Forge (local)"
+  },
+  "plugins": [
+    {
+      "name": "hermes-creator-forge",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}

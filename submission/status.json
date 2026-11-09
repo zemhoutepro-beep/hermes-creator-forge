@@ -1,0 +1,28 @@
+{
+  "version": "0.1.0",
+  "project_package": "local_preview_prepared",
+  "plugin_directory_submission": "not_ready",
+  "validated": [
+    "repository-specific structural validator",
+    "unit tests with pinned PyYAML dependency",
+    "deterministic source archive",
+    "fresh extraction checks",
+    "developerName synchronized across local manifests"
+  ],
+  "unit_test_count": 26,
+  "unit_test_result": "passed",
+  "unverified": [
+    "live Hermes Agent behavior",
+    "live ChatGPT/Codex installation and skill scan",
+    "AI-generated workflow evaluation outcomes"
+  ],
+  "blockers": [
+    "public Plugin Directory verification of developerName remains pending",
+    "official preflight could not enumerate directories on this Windows host using its secure file-descriptor API"
+  ],
+  "notes": [
+    "No license was present in the source repository; none was added.",
+    "Reviewer prompts are prepared cases and have not been represented as passed model tests.",
+    "Website, support, privacy, and terms URLs are not required for skills-only submissions in the current official submission guidance."
+  ]
+}

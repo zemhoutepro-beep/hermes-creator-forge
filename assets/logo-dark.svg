@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Hermes Creator Forge</title>
+  <desc id="desc">A workflow card becoming a checked skill sheet.</desc>
+  <rect width="512" height="512" rx="112" fill="#19242D"/>
+  <path d="M110 122h122l42 42v104H110z" fill="#263541" stroke="#F7F1E7" stroke-width="18" stroke-linejoin="round"/>
+  <path d="M232 122v44h42" fill="#45535D" stroke="#F7F1E7" stroke-width="16" stroke-linejoin="round"/>
+  <path d="M145 202h93M145 235h70" fill="none" stroke="#CFD5D8" stroke-width="15" stroke-linecap="round"/>
+  <path d="M277 241h49" fill="none" stroke="#EAA55D" stroke-width="18" stroke-linecap="round"/>
+  <path d="m310 215 28 26-28 26" fill="none" stroke="#EAA55D" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M337 276h62v135H264V276h55" fill="#263541" stroke="#F7F1E7" stroke-width="18" stroke-linejoin="round"/>
+  <path d="M337 276v35h34" fill="#45535D" stroke="#F7F1E7" stroke-width="15" stroke-linejoin="round"/>
+  <circle cx="331" cy="365" r="35" fill="#EAA55D"/>
+  <path d="m314 365 12 12 23-26" fill="none" stroke="#19242D" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

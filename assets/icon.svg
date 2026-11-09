@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Hermes Creator Forge icon</title>
+  <rect width="512" height="512" rx="112" fill="#19242D"/>
+  <path d="M122 88h184l76 76v260H122z" fill="#F7F1E7" stroke="#EAA55D" stroke-width="18" stroke-linejoin="round"/>
+  <path d="M306 88v78h76" fill="#E8DED0" stroke="#19242D" stroke-width="17" stroke-linejoin="round"/>
+  <path d="M170 224h160M170 270h115" fill="none" stroke="#71808A" stroke-width="20" stroke-linecap="round"/>
+  <circle cx="290" cy="355" r="56" fill="#B96B27"/>
+  <path d="m265 355 18 18 35-40" fill="none" stroke="#FFFFFF" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

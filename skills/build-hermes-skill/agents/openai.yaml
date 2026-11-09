@@ -1,0 +1,10 @@
+interface:
+  display_name: "Build Hermes Skill"
+  short_description: "Turn a workflow into a skill"
+  default_prompt: "Turn this workflow into a Hermes Agent skill."
+  brand_color: "#B96B27"
+policy:
+  products:
+    - CHAT
+    - CODEX
+  allow_implicit_invocation: true

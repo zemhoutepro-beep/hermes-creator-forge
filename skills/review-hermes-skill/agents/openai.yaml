@@ -1,0 +1,10 @@
+interface:
+  display_name: "Review Hermes Skill"
+  short_description: "Audit skill safety and quality"
+  default_prompt: "Review this Hermes skill for safety, quality, and portability."
+  brand_color: "#B96B27"
+policy:
+  products:
+    - CHAT
+    - CODEX
+  allow_implicit_invocation: true

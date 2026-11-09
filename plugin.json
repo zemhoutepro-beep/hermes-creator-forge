@@ -1,0 +1,61 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "hermes-creator-forge",
+  "version": "0.1.0",
+  "description": "Create, review, and package reusable Hermes Agent skills from workflows and source material.",
+  "author": {
+    "name": "zemhoutepro-beep",
+    "url": "https://github.com/zemhoutepro-beep"
+  },
+  "repository": "https://github.com/zemhoutepro-beep/hermes-creator-forge",
+  "keywords": [
+    "hermes-agent",
+    "skills",
+    "workflow-design",
+    "skill-authoring"
+  ],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Hermes Creator Forge",
+        "shortDescription": "Forge reliable Hermes skills",
+        "longDescription": "Turn a workflow, source material, or a rough idea into a reusable Hermes Agent skill. Forge the instructions around a real user job, review unsafe or unsupported steps, and validate the finished skill package before delivery. Works in conversation and with local workspace files; no separate service or API key is required.",
+        "category": "Developer Tools",
+        "capabilities": [
+          "Create Hermes Agent skills",
+          "Review and improve skill packages",
+          "Validate reusable agent workflows"
+        ],
+        "defaultPrompt": [
+          "Turn this workflow into a reusable Hermes Agent skill.",
+          "Review this SKILL.md for safety, clarity, and Hermes compatibility.",
+          "Package this procedure as a Hermes skill with evaluation prompts."
+        ],
+        "brandColor": "#B96B27",
+        "logo": "./assets/logo-light.svg",
+        "composerIcon": "./assets/icon.svg",
+        "developerName": "zemhoutepro-beep"
+      }
+    }
+  },
+  "interface": {
+    "displayName": "Hermes Creator Forge",
+    "shortDescription": "Forge reliable Hermes skills",
+    "longDescription": "Turn a workflow, source material, or a rough idea into a reusable Hermes Agent skill. Forge the instructions around a real user job, review unsafe or unsupported steps, and validate the finished skill package before delivery. Works in conversation and with local workspace files; no separate service or API key is required.",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Create Hermes Agent skills",
+      "Review and improve skill packages",
+      "Validate reusable agent workflows"
+    ],
+    "defaultPrompt": [
+      "Turn this workflow into a reusable Hermes Agent skill.",
+      "Review this SKILL.md for safety, clarity, and Hermes compatibility.",
+      "Package this procedure as a Hermes skill with evaluation prompts."
+    ],
+    "brandColor": "#B96B27",
+    "logo": "./assets/logo-light.svg",
+    "composerIcon": "./assets/icon.svg",
+    "developerName": "zemhoutepro-beep"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Hermes Creator Forge",
+  "subtitle": "Forge reliable Hermes skills",
+  "description": "Turn a workflow, source material, or a rough idea into a reusable Hermes Agent skill. Forge the instructions around a real user job, review unsafe or unsupported steps, and validate the finished skill package before delivery. Works in conversation and with local workspace files; no separate service or API key is required.",
+  "category": "Developer Tools",
+  "developerName": "zemhoutepro-beep",
+  "websiteURL": null,
+  "customerSupportURL": null,
+  "privacyPolicyURL": null,
+  "termsOfServiceURL": null,
+  "version": "0.1.0",
+  "packageName": "hermes-creator-forge",
+  "capabilities": [
+    "Create Hermes Agent skills",
+    "Review and improve skill packages",
+    "Validate reusable agent workflows"
+  ],
+  "logo": "./assets/logo-light.svg",
+  "starterPrompts": [
+    "Turn this workflow into a reusable Hermes Agent skill.",
+    "Review this SKILL.md for safety, clarity, and Hermes compatibility.",
+    "Package this procedure as a Hermes skill with evaluation prompts."
+  ],
+  "releaseNotes": "First local preview: create and review Hermes Agent skills with safety boundaries and evaluation prompts."
+}
