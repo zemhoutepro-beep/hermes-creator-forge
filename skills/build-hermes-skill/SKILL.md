@@ -3,9 +3,8 @@ name: build-hermes-skill
 description: Turn a workflow or source into a reusable Hermes skill.
 version: 0.1.0
 metadata:
-  hermes:
-    tags: [hermes-agent, skill-authoring, workflow-design]
-    category: developer-tools
+  tags: "hermes-agent, skill-authoring, workflow-design"
+  category: "developer-tools"
 ---
 
 # Build a Hermes Agent Skill

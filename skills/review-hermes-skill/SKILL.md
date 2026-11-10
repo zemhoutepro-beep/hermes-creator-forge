@@ -3,9 +3,8 @@ name: review-hermes-skill
 description: Audit Hermes skills for safety, quality, and portability.
 version: 0.1.0
 metadata:
-  hermes:
-    tags: [hermes-agent, skill-review, quality]
-    category: developer-tools
+  tags: "hermes-agent, skill-review, quality"
+  category: "developer-tools"
 ---
 
 # Review a Hermes Agent Skill

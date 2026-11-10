@@ -56,4 +56,4 @@ These are proposed measurements; no performance gains are claimed yet.
 
 ## Submission state
 
-**Local preview prepared.** The publisher identity and public support, privacy, and terms URLs are intentionally unset. Live ChatGPT/Codex install, Hermes runtime behavior, public directory review, and video walkthrough remain to be demonstrated before calling this submission-ready.
+**Local preview prepared.** The local `developerName` is set to `zemhoutepro-beep`; public publisher identity verification remains pending. Public support, privacy, and terms URLs are not provided. Live ChatGPT/Codex installation, live Hermes Agent behavior, public directory review, and the video walkthrough remain unverified.

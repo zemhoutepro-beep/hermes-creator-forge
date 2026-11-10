@@ -17,8 +17,7 @@
     "AI-generated workflow evaluation outcomes"
   ],
   "blockers": [
-    "public Plugin Directory verification of developerName remains pending",
-    "official preflight could not enumerate directories on this Windows host using its secure file-descriptor API"
+    "public Plugin Directory verification of developerName remains pending"
   ],
   "notes": [
     "No license was present in the source repository; none was added.",
